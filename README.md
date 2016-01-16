@@ -6,5 +6,8 @@
 - brew install watchify
 - watchify -t mithrilify ./app/*.js -o ./static/app-browserified.js -v -d
 - node server.js (if localhost server is in use change using export PORT=xxxx)
-###License
+<br> <br/>
+
+#License
 MIT.
+http://rice-tweeter.herokuapp.com/workshop.html
